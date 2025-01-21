@@ -1,4 +1,4 @@
-# MkAutoDoc
+ # MkAutoDoc
 
 Python API documentation for MkDocs.
 
